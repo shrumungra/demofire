@@ -9,10 +9,7 @@ class ViewData extends StatefulWidget {
 }
 
 class _ViewDataState extends State<ViewData> {
-  @override
-  void initState() {
-    // TODO: implement initState
-  }
+
 
   @override
   Widget build(BuildContext context) {
